@@ -1,0 +1,4 @@
+b --- change background to a random color
+n --- save current background color to palette
+a --- toggle line/circle drawing
+
